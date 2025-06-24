@@ -3,6 +3,8 @@
 **Wealthio** is a modern personal finance tracking platform powered by AI. It enables users to manage income, track expenses, analyze trends, and visualize financial health — all in a beautiful and responsive web app.
 
 Built using **Next.js 15**, **React 19**, **Tailwind CSS**, **Prisma**, **Supabase**, and **Clerk Authentication**, Wealthio is designed for performance, security, and scalability.
+![Built by Ayush Ranjan](https://img.shields.io/badge/Built%20by-Ayush%20Ranjan-blueviolet?style=for-the-badge)
+
 
 ---
 
